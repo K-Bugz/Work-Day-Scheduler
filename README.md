@@ -11,7 +11,7 @@ the past, present, and future!!!
 ## Contact Me
 Email: kbugusky@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/kevinbugusky333454/ <br>
-GitHub: https://github.com/K-Bugz/Work-Day-Scheduler
+GitHub: https://github.com/K-Bugz/Work-Day-Scheduler <br>
 Site: https://k-bugz.github.io/Work-Day-Scheduler/
 
 ## Other 
